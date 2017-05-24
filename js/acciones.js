@@ -48,7 +48,7 @@
 		 var options={
 			 maximumAge : 3600000,
 			 timeout : 3000,
-			 enableHighAccuraccy : true,
+			 enableHighAccuracy : true,
 		 }
 		 
 		 var watchID = navigator.geolocation.watchPosition(onSuccesss, onError, options);
