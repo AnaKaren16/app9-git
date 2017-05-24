@@ -12,7 +12,7 @@
       });
  
  $('#watch').on('click', function(){
-	   wathPosition ();
+	   watchPosition ();
  });
  
  }
